@@ -1,4 +1,6 @@
 # React book library
+!!! Project made with deprecated Create React App 
+
 [Live preview](http://bbm2910.github.io/react-book-library)
 
 This is a simple React-based web application for managing and displaying a list of books. It uses React Router for navigation and fetching book data from a server using the useFetch custom hook.
